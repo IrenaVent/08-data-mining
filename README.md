@@ -8,4 +8,4 @@
 
 -   Clustering - Hierarchical agglomerative clustering and dendrogram
 -   Linear Regression
--   PCA
+-   Principal Component Analysis (PCA)
