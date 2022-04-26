@@ -6,6 +6,6 @@
 
 ## Big Data and Data Mining issues:
 
--   Clustering - Hierarchical agglomerative clustering and dendrogram
+-   Clustering
 -   Linear Regression
 -   Principal Component Analysis (PCA)
